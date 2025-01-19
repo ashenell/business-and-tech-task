@@ -1,10 +1,9 @@
-CREATE TABLE public.user (
-	id bigserial NOT NULL,
-	"json" jsonb NULL,
-	"owner" varchar NULL,
-	creator varchar NULL,
-	creation_date timestamp NULL,
-	modifier varchar NULL,
-	modify_date timestamp NULL,
+CREATE TABLE public."user" (
+    id BIGSERIAL PRIMARY KEY,
+    "json" JSONB NULL,
+    "owner" VARCHAR NULL,
+    creator VARCHAR NULL,
+    creation_date TIMESTAMP NULL,
+    modifier VARCHAR NULL,
+    modify_date TIMESTAMP NULL
 );
-

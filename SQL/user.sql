@@ -1,4 +1,4 @@
-INSERT INTO user ("json","owner",creator,creation_date,modifier,modify_date) VALUES
+INSERT INTO "user" ("json","owner",creator,creation_date,modifier,modify_date) VALUES
   (
     '{"uuid": "6fa0f7ae-787f-4ae1-9325-917d47fd590f", "email": "marleen.part72@example.com", "enabled": true, "external": true, "lastName": "Part", "firstName": "Marleen", "jwtEnabled": false, "authorityIds": [1, 2], "principalName": "49405214566"}',
     NULL,
@@ -80,7 +80,7 @@ INSERT INTO user ("json","owner",creator,creation_date,modifier,modify_date) VAL
     '2025-01-03 10:37:14.073'
   );
 
-INSERT INTO lc_authority_user ("json","owner",creator,creation_date,modifier,modify_date) VALUES
+INSERT INTO "user" ("json","owner",creator,creation_date,modifier,modify_date) VALUES
   (
     '{"uuid": "aca485f3-90a2-4233-a798-1a62c2cf9990", "email": "gustav.kapp04@example.com", "enabled": true, "external": true, "lastName": "Kapp", "firstName": "Gustav", "jwtEnabled": false, "authorityIds": [1], "principalName": "39501123754"}',
     NULL,
