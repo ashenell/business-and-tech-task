@@ -26,7 +26,7 @@ Näiteks:
 2. Laenuhaldur teeb vajalikud toimingud ning muudab lepingu **"Kehtivaks"**.
 3. Kehtiva lepingu andmed tuleb uuendada ka **kohustuste andmebaasis**, kuid protsess selleks puudub.  
 
-Klinedi koondvaade on seotud **kohustuste andmebaasiga**.
+Kliendi koondvaade on seotud **kohustuste andmebaasiga**.
 
 ---
 
