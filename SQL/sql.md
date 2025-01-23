@@ -43,9 +43,6 @@ Lugemist Dockeri kohta: [Docker e-raamat](https://github.com/bobbyiliev/introduc
 
    ![Image](image-1.png)
 
-   Peaks avanema järgmine vaade:
-
-   ![Seaded](image-2.png)
 
 3. Sea järgmised parameetrid:
    - **Container name** - anna suvaline nimi.
