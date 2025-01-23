@@ -22,5 +22,7 @@ Uuenda andmed nii, et kõik kasutajad, kelle authorityIds on tühi muudetakse
 enabled väärtuseks false
 */
 
+-- Koosta SQL päring, mis tagastab jsoni pretty kujul. Json prettyt saad testida siin https://jsonformatter.curiousconcept.com/
+
 
 
