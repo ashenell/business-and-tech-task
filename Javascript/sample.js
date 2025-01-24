@@ -1,5 +1,5 @@
 /**
- * Koostada funktsioonid vastavalt ette atndu ülessande plokkidele
+ * Koostada funktsioonid vastavalt ette antud ülesande plokkidele
  * Ette oleme andnud muutujad ja nende väärtused ning funktsioonid mida tuleb kasutada
  * All pool on ka testid, et testida võimalikku lõpptulemust
  * Lubatud on luua enda nägemise järgi abi funktsioone
@@ -18,7 +18,7 @@ let guaranteeRate = 0;
  * @returns {number} - Käenduse määr protsentides.
  */
 
-function calculateGuramteeRate() {
+function calculateGuaranteeRate() {
     
     return guaranteeRate;
 }
@@ -29,14 +29,14 @@ function calculateGuramteeRate() {
  * Ettevõtte laenukäendus LG puhul on maksimaalne käendusesumma 80% laenusummast
  * Erakorraline proportsionaalne käendus olemasolevatele laenudele COP puhul on maksimaalne käendusesumma 50% laenusummast
  * Tagastame veateate, kui käenduse määr on suurem kui maksimaalne käendusesumma. Negatiivse garantii korral tagastame veateate.
- * Veadetede võib olla lihtsalt console.log("Validation error")
+ * Veateade võib olla lihtsalt console.log("Validation error")
  * @returns {number} - Käenduse määr protsentides või veateate korral 0.
  */
 
-function calculateGuramteeRateByProductCategory() {
+function calculateGuaranteeRateByProductCategory() {
     return guaranteeRate;
 }
 
 // Testime funktsioone
-console.log("Calculated Guarantee Rate:", calculateGuramteeRate(), "%");
-console.log("Validated Guarantee Rate by Product Category:", calculateGuramteeRateByProductCategory(), "%");
+console.log("Calculated Guarantee Rate:", calculateGuaranteeRate(), "%");
+console.log("Validated Guarantee Rate by Product Category:", calculateGuaranteeRateByProductCategory(), "%");
