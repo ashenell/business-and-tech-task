@@ -31,7 +31,7 @@ Kui otsustad kasutada meie poolt ette antud lahendust, siis edukaks kasutamiseks
 3. Rakenduse kasutamiseks:
    - Jooksuta terminalis käsk:
      ```bash
-     node app.js
+     node sample.js
      ```
    - Või soovituslikult:
      ```bash
