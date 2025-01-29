@@ -13,7 +13,7 @@ Töö on jagatud kolme lõiku:
 - **SQL päringu keele tundmise oskus**  
 - **JavaScripti kasutamise oskus**  
 
-Kuna antud roll ei eelda arendaja oskuseid, siis sellegi poolest tuleb põhiline loogilise arenduse lõikude oskus tulevases töös suuresti kasuks. Näiteks:
+Kuna antud roll ei eelda arendaja oskuseid, siis sellegipoolest tuleb põhiline loogilise arenduse lõikude oskus tulevases töös suuresti kasuks. Näiteks:
 - Seadistuste tegemine vastavalt äri vajadustele.
 - Äri vajadustest aru saamine.
 - Probleemide ja vigade analüüs koostöös arendajatega.  
